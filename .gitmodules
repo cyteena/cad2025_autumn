@@ -1,0 +1,6 @@
+[submodule "hw3"]
+	path = hw3
+	url = https://github.com/cyteena/cagd2025-hw3.git
+[submodule "hw4"]
+	path = hw4
+	url = https://github.com/cyteena/cagd2025-hw4.git
